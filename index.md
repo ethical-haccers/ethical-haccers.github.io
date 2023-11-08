@@ -1,4 +1,4 @@
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/jslogo.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/ethical-haccers_logo.png">
 
 *Final Project Idea*
 
