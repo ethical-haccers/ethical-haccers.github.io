@@ -5,7 +5,6 @@ show_downloads: true
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
-  repository_url: https://github.com/ethical-haccers/ethical-haccers.github.io
-  organization_url: https://github.com/ethical-haccers
+  repository_url: https://github.com/ethical-haccers
 gems:
   - jekyll-mentions
