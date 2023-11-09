@@ -2,6 +2,10 @@
 
 *Final Project Idea*
 
+### Project Files
+<a href="https://docs.google.com/document/d/1xthjIASahe-UT9g0HBzNF65iaGU2X9AgG1eLLhN9xsU/edit?usp=sharing">TEAM CONTRACT</a>
+<a href="">Deployment</a>
+
 ## The Problem
 The non-profit organization, Full Cycle Takeout, is confronted with a pressing issue. They operate a reusable takeout container program designed to replace single-use plates and clamshells at events. However, they are currently experiencing a substantial problem as they lose 20-30% of their containers due to event attendees taking them home. This situation jeopardizes the program’s goal of sustainability. They are seeking an efficient solution to hold customers accountable for returning their reusable containers, especially during their fast-paced environment events.
 
