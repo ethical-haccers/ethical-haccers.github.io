@@ -3,9 +3,22 @@
 *Final Project*
 
 ### Project Files
-<a href="https://docs.google.com/document/d/1xthjIASahe-UT9g0HBzNF65iaGU2X9AgG1eLLhN9xsU/edit?usp=sharing">TEAM CONTRACT</a>
-<a href="">Deployment</a>
-<a href="https://github.com/orgs/ethical-haccers/projects/1/views/1">M1</a>
+<ul>
+    <li>
+        <a href="http://161.35.230.155/">Deployment</a>
+    </li>
+    <li>
+        <a href="https://github.com/orgs/ethical-haccers/projects/1/views/1">M1 Project Page</a>
+    </li>
+    <li>
+        <a href="https://github.com/orgs/ethical-haccers/projects/5">M2 Project Page</a>
+    </li>
+    <li>
+        <a href="https://docs.google.com/document/d/1xthjIASahe-UT9g0HBzNF65iaGU2X9AgG1eLLhN9xsU/edit?usp=sharing">TEAM CONTRACT</a>
+    </li>
+</ul>
+
+
 
 
 ## The Problem
@@ -19,26 +32,26 @@ The sponsor described the types of events that Full Cycle Takeout has previously
 ## Page Mockups
 
 ## Landing Page
-<img src="../img/mobile_landing_scrnsht.png" width="400px">
+<img src="../img/mobile_landing_scrnsht.png" width="400px" style="display: block; margin-left: auto; margin-right: auto;">
 
 The landing page contains access to other pages and will contain information about how the program works.
 
 ## Sign In
-<img src="../img/sign_in_mock.png" width="400px">
+<img src="../img/sign_in_mock.png" width="600px" style="display: block; margin-left: auto; margin-right: auto;">
 
 Sample of the sign-in page where the user inputs their email and password and is granted access to the rest of the site.
 
 ## Sign Up
-<img src="../img/sign_out_mock.png" width="400px">
+<img src="../img/sign_out_mock.png" width="600px" style="display: block; margin-left: auto; margin-right: auto;">
 
 Where a new user account can be created by entering a name, email, and password. Optionally a used can also include a to enter an organization they are associated with.
 
 ## Container Return 
-<img src="../img/return_mock.png" width="400px">
+<img src="../img/return_mock.png" width="600px" style="display: block; margin-left: auto; margin-right: auto;">
 
 The page where a user can scan the QR code on their container to log their return at a certified drop off site.
 
-## Cataloge 
-<img src="../img/catalog_mock.png" width="400px">
+## Catalog 
+<img src="../img/catalog_mock.png" width="600px" style="display: block; margin-left: auto; margin-right: auto;">
 
 A catalogue page containing information for mass rentals (for specific events or for vendors).
