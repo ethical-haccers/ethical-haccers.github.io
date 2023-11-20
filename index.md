@@ -1,10 +1,12 @@
 <img width="200px" class="rounded float-start pe-4" src="../img/ethical-haccers_logo.png">
 
-*Final Project Idea*
+*Final Project*
 
 ### Project Files
 <a href="https://docs.google.com/document/d/1xthjIASahe-UT9g0HBzNF65iaGU2X9AgG1eLLhN9xsU/edit?usp=sharing">TEAM CONTRACT</a>
 <a href="">Deployment</a>
+<a href="https://github.com/orgs/ethical-haccers/projects/1/views/1">M1</a>
+
 
 ## The Problem
 The non-profit organization, Full Cycle Takeout, is confronted with a pressing issue. They operate a reusable takeout container program designed to replace single-use plates and clamshells at events. However, they are currently experiencing a substantial problem as they lose 20-30% of their containers due to event attendees taking them home. This situation jeopardizes the program’s goal of sustainability. They are seeking an efficient solution to hold customers accountable for returning their reusable containers, especially during their fast-paced environment events.
@@ -15,9 +17,23 @@ A few mockup-page designs that we had in mind include utilizing external hardwar
 ## Special Sauce
 The sponsor described the types of events that Full Cycle Takeout has previously taken part of. As a more formal example, companies hosting large events that request the containers en-mass would require a different UI as opposed to a more casual event where containers are rented on an individual basis. On the admin side, the sponsors will be able to monitor the id’s of containers and their status of checkout-out, returned, cleaned, etc.
 ## Page Mockups
-<img src="../img/landing_mock.png" width="400px">
-<img src="../img/sign_in_mock.png" width="400px">
-<img src="../img/sign_out_mock.png" width="400px">
-<img src="../img/return_mock.png" width="400px">
-<img src="../img/catalog_mock.png" width="400px">
+
+## Landing Page
 <img src="../img/mobile_landing_scrnsht.png" width="400px">
+The landing page contains access to other pages and will contain information about how the program works.
+
+## Sign In
+<img src="../img/sign_in_mock.png" width="400px">
+Sample of the sign-in page where the user inputs their email and password and is granted access to the rest of the site.
+
+## Sign Up
+<img src="../img/sign_out_mock.png" width="400px">
+Where a new user account can be created by entering a name, email, and password. Optionally a used can also include a to enter an organization they are associated with.
+
+## Container Return 
+<img src="../img/return_mock.png" width="400px">
+The page where a user can scan the QR code on their container to log their return at a certified drop off site.
+
+## Cataloge 
+<img src="../img/catalog_mock.png" width="400px">
+A catalogue page containing information for mass rentals (for specific events or for vendors).
