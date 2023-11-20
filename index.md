@@ -20,20 +20,25 @@ The sponsor described the types of events that Full Cycle Takeout has previously
 
 ## Landing Page
 <img src="../img/mobile_landing_scrnsht.png" width="400px">
+
 The landing page contains access to other pages and will contain information about how the program works.
 
 ## Sign In
 <img src="../img/sign_in_mock.png" width="400px">
+
 Sample of the sign-in page where the user inputs their email and password and is granted access to the rest of the site.
 
 ## Sign Up
 <img src="../img/sign_out_mock.png" width="400px">
+
 Where a new user account can be created by entering a name, email, and password. Optionally a used can also include a to enter an organization they are associated with.
 
 ## Container Return 
 <img src="../img/return_mock.png" width="400px">
+
 The page where a user can scan the QR code on their container to log their return at a certified drop off site.
 
 ## Cataloge 
 <img src="../img/catalog_mock.png" width="400px">
+
 A catalogue page containing information for mass rentals (for specific events or for vendors).
