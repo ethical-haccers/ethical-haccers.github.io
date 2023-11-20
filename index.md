@@ -14,3 +14,10 @@ Our goal is to design an app for the reusable takeout container program Full Cyc
 A few mockup-page designs that we had in mind include utilizing external hardware like the proposed RFID chips/scanners to make user transactions more reliable. Having a ‘collection’ or database of existing containers and their chips would be an efficient way to keep track of the containers as they cycle through users. As for the accompanying application, it would be similar to pre-existing bike/scooter rental services that allow registered users to rent the containers without having to re-enter payment information repeatedly. The account system has the additional benefit of being able to link user-accounts to the corresponding RFIDs as they’re checked out and returned, holding users accountable for returning the containers. 
 ## Special Sauce
 The sponsor described the types of events that Full Cycle Takeout has previously taken part of. As a more formal example, companies hosting large events that request the containers en-mass would require a different UI as opposed to a more casual event where containers are rented on an individual basis. On the admin side, the sponsors will be able to monitor the id’s of containers and their status of checkout-out, returned, cleaned, etc.
+## Page Mockups
+<img src="../img/landing_mock.png" width="400px">
+<img src="../img/sign_in_mock.png" width="400px">
+<img src="../img/sign_out_mock.png" width="400px">
+<img src="../img/return_mock.png" width="400px">
+<img src="../img/catalog_mock.png" width="400px">
+<img src="../img/mobile_landing_scrnsht.png" width="400px">
