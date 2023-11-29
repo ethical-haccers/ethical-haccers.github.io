@@ -20,9 +20,6 @@
         <a href="https://github.com/orgs/ethical-haccers/projects/8">M3 Project Page</a>
     </li>
     <li>
-        <a href="https://github.com/orgs/ethical-haccers/projects/8">M3 Project Page</a>
-    </li>
-    <li>
         <a href="https://docs.google.com/document/d/1xthjIASahe-UT9g0HBzNF65iaGU2X9AgG1eLLhN9xsU/edit?usp=sharing">TEAM CONTRACT</a>
     </li>
 </ul>
