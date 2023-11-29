@@ -61,17 +61,17 @@ A catalogue page containing information for mass rentals (for specific events or
 # User Guide
 
 ## Container Rental
-<img src="../img/rental.JPG" width="600px" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="../img/rental.png" width="600px" style="display: block; margin-left: auto; margin-right: auto;">
 
 The container rental form can be used to request a rental container form Full Cycle Takeout. The container ID can be found on the container that you wish you rent. The other fields will be automatically taken care of for you. (The autofill feature is not complete yet.)
 
 ## Order History
-<img src="../img/history.JPG" width="600px" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="../img/history.png" width="600px" style="display: block; margin-left: auto; margin-right: auto;">
 
 The Order History page can be used to track active container rentals, as well as you past completed orders.
 
 ## Admin Order History
-<img src="../img/admin_history.JPG" width="600px" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="../img/admin_history.png" width="600px" style="display: block; margin-left: auto; margin-right: auto;">
 
 For Admin accounts, access to the admin history page allows you to view all orders, active and completed, along with the (account) owners of each order.
 
