@@ -5,7 +5,7 @@
 ### Project Files
 <ul>
     <li>
-        <a href="http://161.35.230.155/">Deployment</a>
+        <a href="http://147.182.233.49/">Deployment</a>
     </li>
     <li>
         <a href="https://github.com/orgs/ethical-haccers/repositories">Ethical-HACCers Organization</a>
