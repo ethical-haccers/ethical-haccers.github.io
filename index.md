@@ -41,7 +41,7 @@ The sponsor described the types of events that Full Cycle Takeout has previously
 
 # Deployment
 
-Our deployed webpage can be viewed [here].(http://147.182.233.49/)
+Our deployed webpage can be viewed <a href="http://147.182.233.49/">here</a>.
 
 # Page Mockups
 
