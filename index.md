@@ -5,7 +5,7 @@
 ### Project Files
 <ul>
     <li>
-        <a href="http://147.182.233.49/">Deployment</a>
+        <a href="http://147.182.233.49/" target="_blank">Deployment</a>
     </li>
     <li>
         <a href="https://github.com/orgs/ethical-haccers/repositories">Ethical-HACCers Organization</a>
@@ -38,10 +38,6 @@ Our goal is to design an app for the reusable takeout container program Full Cyc
 A few mockup-page designs that we had in mind include utilizing external hardware like the proposed RFID chips/scanners to make user transactions more reliable. Having a ‘collection’ or database of existing containers and their chips would be an efficient way to keep track of the containers as they cycle through users. As for the accompanying application, it would be similar to pre-existing bike/scooter rental services that allow registered users to rent the containers without having to re-enter payment information repeatedly. The account system has the additional benefit of being able to link user-accounts to the corresponding RFIDs as they’re checked out and returned, holding users accountable for returning the containers. 
 ## Special Sauce
 The sponsor described the types of events that Full Cycle Takeout has previously taken part of. As a more formal example, companies hosting large events that request the containers en-mass would require a different UI as opposed to a more casual event where containers are rented on an individual basis. On the admin side, the sponsors will be able to monitor the id’s of containers and their status of checkout-out, returned, cleaned, etc.
-
-# Deployment
-
-Our deployed webpage can be viewed <a href="http://147.182.233.49/">here</a>.
 
 # Page Mockups
 
@@ -128,3 +124,7 @@ All CSS styling can be found within the file:
 <li>
     <a href="https://github.com/ethical-haccers/full-cycle-app/blob/main/app/client/style.css">app/client/style.css</a>
 </li>
+
+# Community Feedback
+
+Overall, users are positive about the web app, praising its sleek design, user-friendly interface, and impressive features. Some users encountered minor issues, such as glitches in form submission and occasional lag. Suggestions for improvement include adding more comprehensive tutorial materials, enhancing customization options for user profiles, and incorporating tooltips for better icon understanding. Addressing these concerns could further enhance the app's usability and overall user satisfaction.
