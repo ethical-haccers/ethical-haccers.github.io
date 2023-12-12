@@ -39,6 +39,10 @@ A few mockup-page designs that we had in mind include utilizing external hardwar
 ## Special Sauce
 The sponsor described the types of events that Full Cycle Takeout has previously taken part of. As a more formal example, companies hosting large events that request the containers en-mass would require a different UI as opposed to a more casual event where containers are rented on an individual basis. On the admin side, the sponsors will be able to monitor the id’s of containers and their status of checkout-out, returned, cleaned, etc.
 
+# Deployment
+
+Our deployed webpage can be viewed [here].(http://147.182.233.49/)
+
 # Page Mockups
 
 ## Sign In
